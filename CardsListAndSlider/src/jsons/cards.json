@@ -1,0 +1,124 @@
+{
+    "cards": [
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Jack",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "John",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Anna",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Mary",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Robert",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Valod",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Ani",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Lilit",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-8 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Davit",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-9 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Klara",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Bob",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Andrey",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-8 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Amali",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+        },
+        {
+            "image": "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+            "cardName": "card-9 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolore doloribus et facilis laudantium nemo perferendis quae quaerat sed tenetur, vero, voluptates? Dignissimos iure optio soluta veniam veritatis, voluptatem.\n",
+            "userName": "Ara",
+            "rating":"5.0",
+            "likes": "260",
+            "cost": "500"
+        }
+    ]
+}
